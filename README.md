@@ -2,7 +2,7 @@
 <h3 align="center">Um desenvolvedor de software.</h3>
 
 - 🌱 Atualmente uso Frameworks Front: **React, Vue and Angular**
-- 👯 E estou desenvolvendo também com Frameworks Back: **Express and Spring*
+- 👯 E estou desenvolvendo também com Frameworks Back: **Express and Spring**
 - 🤝 Criei este portfólio a ajudar iniciantes com **Desenvolvimento Web**
 
 <h3 align="left">Me siga nas redes:</h3>
